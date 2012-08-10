@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIAlertView.h>
 #import "RIButtonItem.h"
 
 @interface UIAlertView (Blocks)
